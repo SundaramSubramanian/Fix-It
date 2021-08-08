@@ -1,9 +1,9 @@
 # Fix-It
 Fix-It is an open source help desk solution which can be implemented in any business scopes. 
 
-#Front-End 
+**Front-End **
 Blazor 
-#API 
+**API **
 ASP.NET Core 5 
-#Database 
+**Database **
 MS SQL Server
